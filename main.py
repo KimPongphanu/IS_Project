@@ -23,3 +23,11 @@ with col3:
 with col4:
     if st.button("NeuralNetwork_Model"):
         st.switch_page("pages/NeuralNetwork_Model.py")
+
+st.markdown("""### สามารถ ดู GitHub ได้ กดที่นี่
+#### **Link**: [Click here](https://github.com/KimPongphanu/IS_Project.git)  
+""")
+
+st.markdown("""### สามารถ โหลด model CNN เพื่อทดลองได้ ได้ กดที่นี่
+#### **Link**: [Click here](https://drive.google.com/file/d/1KUSIQCJPyBK4ndwdMiwpLWBsiDAAM-7c/view?usp=sharing)  
+""")
